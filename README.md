@@ -1,4 +1,4 @@
-### Olá, sou João Vitor Nascimento e estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal Baiano, Campus Guanambi
+### Olá, sou João Vitor Nascimento e estou cursando Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia Baiano (IFBAIANO), Campus Guanambi
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]("https://www.instagram.com/joaovitor.nso/)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovitornso)
  
