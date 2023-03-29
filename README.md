@@ -1,10 +1,13 @@
 ### Olá a todos
 
 <div>
-<a href="https://github.comjoaovitornso">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitornso&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitornso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
+
+ <a href="https://github.com/joaovitornso">
+
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitornso&layout=compact&langs_count=7&theme=dracula"/>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api?username=joaovitornso&&theme=dracula&show_icons=true)](https://github.com/joaovitornso)
+
 </div>
  
   
