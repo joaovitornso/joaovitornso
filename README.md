@@ -33,7 +33,7 @@
   
 <img align="center" alt="JoaoVitor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
           
-<img align="center" alt="JoaoVitor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<!-- <img align="center" alt="JoaoVitor-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> -->
            
 
 </div>
